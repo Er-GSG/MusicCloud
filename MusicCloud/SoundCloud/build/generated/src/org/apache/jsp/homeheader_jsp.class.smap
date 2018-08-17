@@ -1,0 +1,18 @@
+SMAP
+homeheader_jsp.java
+JSP
+*S JSP
+*F
++ 0 homeheader.jsp
+homeheader.jsp
++ 1 homemenu.html
+homemenu.html
++ 2 index.html
+index.html
+*L
+1,30:50
+1#1,23:80
+30#0,48:102
+1#2,35:150
+77#0,32:185
+*E

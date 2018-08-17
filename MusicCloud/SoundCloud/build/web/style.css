@@ -1,0 +1,93 @@
+
+.home{
+    background-image: url("images/55.jpg");
+    background-repeat: no-repeat;
+    height: 680px;
+    width: 1000px;
+    
+     
+}
+.style1{
+   
+  
+                 background: #f5f6f7;
+       background-image: url( "images/texture.jpg");
+    
+            background-repeat: repeat-x;
+   height: auto;
+   width: auto;
+      font-family: sans-serif;
+  margin: -15px;
+         color: #303030;      
+
+}
+.wrapper
+{
+        
+   background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1000px;
+ 
+    width:100%;
+    border:1px solid #d4d4d4;
+font-family: sans-serif;
+
+         color: #303030;
+ 
+
+}
+
+.banner
+{
+    background-image: url('./images/Banner.jpg');
+    height: 141px;
+    width: 1000px;
+    
+}
+
+.style2
+{
+    width: 960px;
+    padding: 20px;
+    padding-bottom: 260px;
+    margin-bottom: 60px;
+    background-color: white;
+       height: auto;
+       font-family: sans-serif;
+
+         color: #303030;
+
+}
+.maincontent{
+    border: 1px solid #d4d4d4;
+    padding-bottom: 40px;
+    width: 920px;
+    padding: 0px;
+   background-color: #f5f6f7;
+   height: auto;
+   margin-top: 20px;
+   margin-left: 20px;
+   border-radius: 10px;
+   font-family: sans-serif;
+   color: #303030;
+   font-weight:  normal; 
+       
+}
+.Footer
+{
+
+    
+    border:1px solid #d4d4d4;
+    background-color: #f5f6f7;
+        height: auto;
+        clear: both;
+      border-radius: 5px;
+        width: 920px;
+         position: relative;
+         top: 285px;
+         left: 0px;
+         
+
+          
+}

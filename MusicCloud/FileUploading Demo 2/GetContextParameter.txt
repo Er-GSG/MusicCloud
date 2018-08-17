@@ -1,0 +1,4 @@
+ 
+String connString=getServletContext().getInitParameter("conn");
+String user=getServletContext().getInitParameter("user");
+String password=getServletContext().getInitParameter("password");
